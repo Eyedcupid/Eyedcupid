@@ -26,3 +26,5 @@ Throughout my learning journey, I have gained experience with the following lang
 If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me via the following channels
 
 - Email: [mattjkaiser3@gmail.com]
+
+Thank you for visiting my GitHub profile! I look forward to connecting with you and creating amazing experiences together. Happy coding! 😄
