@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Matthew], a passionate student and aspiring programmer. Welcome to my GitHub profile!
+### Hi there! 👋 I'm Matthew, a passionate student and aspiring programmer. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -8,7 +8,7 @@ I am currently pursuing my studies and actively developing my skills as a progra
 
 I am currently working on an exciting project that deals with galaxy morphology. Here are some highlights of my ongoing work:
 
-- Project Name: [The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques]
+- Project Name: The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques
 - Description: This study explores the application of unsupervised learning techniques for the automated classification of optical galaxy morphology.
 - Technologies: Python
 
